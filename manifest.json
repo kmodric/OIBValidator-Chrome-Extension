@@ -1,0 +1,19 @@
+{
+   "manifest_version": 2,
+   "name": "OIB Validator",
+   "version": "1.0",
+   "description": "Validate OIBs from context menu with this extension!",
+   "permissions": [ 
+	"contextMenus"
+   ],
+   "background" : {
+        "scripts": ["js/background.js"]
+   },
+   "browser_action" : { 
+        "default_icon" : "images/icon-128.png"
+    }, 
+    
+    "icons": {
+        "128":"images/icon-128.png"
+    }
+}
