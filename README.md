@@ -1,6 +1,6 @@
 # OIBValidator-Chrome-Extension
 
-For details please see [Google Web Store](https://chrome.google.com/webstore/detail/oib-validator/fhacgojihicckkpikfobmmgkbnokmpom) and/or [Youtube Video](https://www.youtube.com/watch?v=Pulo6HCOW9Q)
+For details please see [Google Web Store](https://chrome.google.com/webstore/detail/oib-validator/fhacgojihicckkpikfobmmgkbnokmpom){:target="_blank"} and/or [Youtube Video](https://www.youtube.com/watch?v=Pulo6HCOW9Q){:target="_blank"}
 
 OIB Validator is a Chrome extension designed to check if OIBs is valid or not.
 OIB is personal identification number used in Croatia. If you are outside of Croatia it is unlikely that this will be of much use to you.
