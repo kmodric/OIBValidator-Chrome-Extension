@@ -1,5 +1,7 @@
 # OIBValidator-Chrome-Extension
 
+[example website](https://example.com){target="_blank"}
+
 For details please see <a href="https://chrome.google.com/webstore/detail/oib-validator/fhacgojihicckkpikfobmmgkbnokmpom/" target="_blank">Google Web Store</a>
 
 [Google Web Store](https://chrome.google.com/webstore/detail/oib-validator/fhacgojihicckkpikfobmmgkbnokmpom) and/or [Youtube Video](https://www.youtube.com/watch?v=Pulo6HCOW9Q)
