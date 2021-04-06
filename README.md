@@ -15,3 +15,9 @@ This extension just checks if OIBs are Mathematiclly correct or not. If OIB are 
 
 ## Privacy
 All calculation is done locally (on the client) and none of personal information is shared via internet
+
+## Credits
+Thanks goes to github page from where js code was BCP (Brutally Copy Paste) [https://github.com/domagojpa/oib-validation](https://github.com/domagojpa/oib-validation). 
+Thanks [Domagoj Pavlešić](http://domagoj.eu/oib/) for maintaining github page for OIB calculation in various different programing languages.
+
+Thanks also to Ivan Brčić who created initial Chrome Extension called [OIB Generator](https://chrome.google.com/webstore/detail/oib-generator/kjhgcmcnfeelonhdmfmneiekfcicekfn) from which this project was inspired
